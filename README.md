@@ -2,7 +2,12 @@
 
 ##  a glimpse of UI design
 
-![image](https://github.com/manavshah123/Login_Signup_Page_UI/blob/master/output/WhatsApp%20Image%202022-02-03%20at%201.27.47%20PM%20(1).jpeg)
+### Features of this application
+
+1. Login page with best User Experirnce
+2. Signup page with best User Experirnce
+3. Home page
+
 
 
 <p float="left">
