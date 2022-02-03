@@ -1,6 +1,6 @@
 # Login_Signup_Page_UI
 
-##  a glimpse of UI design
+##  A glimpse of UI design
 
 ### Features of this application
 
