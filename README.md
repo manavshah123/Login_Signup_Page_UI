@@ -1,3 +1,5 @@
+<h1 align="center"> <center><img src="https://github.com/manavshah123/Mobile_Application_Training/blob/main/GIF/login.gif"  width="400"></h1>
+
 # Login_Signup_Page_UI
 
 ##  A glimpse of UI design
